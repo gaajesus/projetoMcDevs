@@ -1,0 +1,11 @@
+Alteração e Exclusão
+
+Corrigir bug de msk
+
+Criar um Cardápio (Imagem Mesmo)
+
+Concluir Compra e gravar na tabela pedidos
+
+Arrumar DataGrid (deixar compacto)
+
+Mandar o user para o seu respectivo form

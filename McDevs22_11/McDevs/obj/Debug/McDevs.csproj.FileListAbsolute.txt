@@ -1,0 +1,364 @@
+C:\Users\ra1857080\Desktop\McDevs\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\ra1857080\Desktop\McDevs\McDevs\bin\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.frmCadastro.resources
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\bin\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.frmCadastro.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\obj\Debug\McDevs.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\McDevs\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.frmCadastro.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs11_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmCadastro.resources
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmCadastro.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\McDevs14_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.frmCadastro.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Npgsql.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\Npgsql.xml
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Npgsql.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\Npgsql.xml
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmVisualizar.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\User.User-PC\Desktop\McDevs14_11_v2.1\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.frmVisualizar.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Npgsql.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\Npgsql.xml
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\ra1857060\Desktop\McDevs16_11\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Npgsql.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\Npgsql.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\gabriel\McDevs19_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Npgsql.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\Npgsql.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs19_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Npgsql.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\Npgsql.xml
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs20_11 Altera\McDevs\obj\Debug\McDevs.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\McDevs.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Npgsql.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\Npgsql.xml
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\McDevs21_11 Altera\McDevs\obj\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\McDevs.pdb
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Npgsql.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\Npgsql.xml
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.csproj.CoreCompileInputs.cache
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.exe
+C:\Users\ra1857080\Desktop\McDevs21_11 Altera e exclusao\McDevs\obj\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\McDevs.exe.config
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Mono.Security.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Npgsql.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Microsoft.VisualStudio.RemoteControl.xml
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.xml
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Npgsql.pdb
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\Npgsql.xml
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\de\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\es\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.csprojAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmAlterar.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmCadCardapio.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmCadFunc.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmCadCliente.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmLogin.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmMenuAdmin.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmRemover.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmSplash.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.csproj.GenerateResource.cache
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.csproj.CopyComplete
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.exe
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.pdb
+C:\Users\User.User-PC\Desktop\mcdevs22_11\McDevs22_11\McDevs\obj\Debug\McDevs.frmCardapio.resources
